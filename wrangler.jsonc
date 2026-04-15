@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "workerd-issue-6583",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-03-01"
+}
